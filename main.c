@@ -6,7 +6,7 @@
 /*   By: axaidan <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/18 15:28:59 by axaidan           #+#    #+#             */
-/*   Updated: 2020/07/18 15:31:49 by axaidan          ###   ########.fr       */
+/*   Updated: 2020/07/18 15:43:50 by axaidan          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,6 @@
 
 int main(void)
 {
-	printf("Hell0 w0rld\n");
+	printf("Hello world\n");
 	return (0);
 }
