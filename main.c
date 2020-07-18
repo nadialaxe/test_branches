@@ -6,8 +6,14 @@
 /*   By: axaidan <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/18 15:28:59 by axaidan           #+#    #+#             */
-/*   Updated: 2020/07/18 15:29:08 by axaidan          ###   ########.fr       */
+/*   Updated: 2020/07/18 15:31:49 by axaidan          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
+#include <stdio.h>
+
+int main(void)
+{
+	printf("Hell0 w0rld\n");
+	return (0);
+}
